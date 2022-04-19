@@ -14,11 +14,12 @@
 
 - 📝 I regularly coding on [https://github.com/zahidkhan262](https://github.com/zahidkhan262)
 
-- 💬 Ask me about **Html,Css,Bootstrap,jQuery,Javascript,ReactJs,NodeJs**
+- 💬 Ask me about **Frontend technologies and Single Page Application**
 
 - 📫 How to reach me **zahidkhan007860@gmail.com**
 
 - ⚡ Fun fact **I trust fast 😍.**
+- ⚡ Meet me at PubG **one V one TDM.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
