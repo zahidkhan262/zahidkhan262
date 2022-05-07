@@ -19,7 +19,7 @@
 - 📫 How to reach me **zahidkhan007860@gmail.com**
 
 - ⚡ Fun fact **I trust fast 😍.**
-- ⚡ Meet me at PubG **one V one TDM.**
+- ⚡ Meet me at PubG **1V1 TDM (id: 5110298790).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
