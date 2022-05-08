@@ -14,7 +14,7 @@
 
 - 📝 I regularly coding on [https://github.com/zahidkhan262](https://github.com/zahidkhan262)
 
-- 💬 Ask me about **Frontend technologies and Single Page Application**
+- 💬 Ask me about **Frontend technologies and Single aaaPage Application**
 
 - 📫 How to reach me **zahidkhan007860@gmail.com**
 
