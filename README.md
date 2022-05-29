@@ -7,8 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/@zahidkhan007860" target="blank"><img src="https://img.shields.io/twitter/follow/@zahidkhan007860?logo=twitter&style=for-the-badge" alt="@zahidkhan007860" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
 - 🌱 I’m **React Js Developer**
+- 🌱 I’m **Node Js Developer**
+- 🌱 I’m **UI/UX Designer**
+- Yes!!! You can say --**MERN Stacker**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/zahidkhan262/](https://linktr.ee/zahidkhan262/)
 
