@@ -12,13 +12,10 @@
 - 🌱 I’m **React Js Developer**
 - 🌱 I’m **Node Js Developer**
 - 🌱 I’m **UI/UX Designer**
-- Yes!!! You can say --**MERN Stacker**
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/zahidkhan262/](https://linktr.ee/zahidkhan262/)
 
 - 📝 I regularly coding on [https://github.com/zahidkhan262](https://github.com/zahidkhan262)
 
-- 💬 Ask me about **Frontend technologies and Single aaaPage Application**
+- 💬 Ask me about **Frontend technologies and Single Page Application**
 
 - 📫 How to reach me **zahidkhan007860@gmail.com**
 
