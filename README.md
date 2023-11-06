@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zahidkhan262&label=Profile%20views&color=0e75b6&style=flat" alt="zahidkhan262" /> </p>
 <h1 align="center">Hi 👋, I am Zahid Khan</h1>
 <img align="center" src="https://wallpaper.dog/large/20512772.jpg" alt="wallpaper" width="100%" height="400px" />
-<h3 align="center">I love code and love my India.</h3>
+<h3 align="center">I love🧡code and love my India ❤.</h3>
 
 
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly coding on [https://github.com/zahidkhan262](https://github.com/zahidkhan262)
 
-- 💬 Ask me about **Frontend technologies and Single Page Application**
+- 💬 Ask me about **MERN STACK and Single Page Application**
 
 - 📫 How to reach me **zahidkhan007860@gmail.com**
 
