@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zahidkhan262&label=Profile%20views&color=0e75b6&style=flat" alt="zahidkhan262" /> </p>
 <h1 align="center">Hi 👋, I am Zahid Khan</h1>
-<a href="https://github.com/zahidkhan262" align="center">know more about us</h1>
+<a href="https://portfolio-a4155.web.app/" align="center">know more about us</h1>
 <img align="center" src="https://wallpaper.dog/large/20512772.jpg" alt="wallpaper" width="100%" height="400px" />
 <h3 align="center">I love🧡code and love my India ❤.</h3>
 
