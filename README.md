@@ -5,9 +5,6 @@
 <h3 align="center">I love🧡code and love my India ❤.</h3>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahidkhan262" alt="zahidkhan262" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@zahidkhan007860" target="blank"><img src="https://img.shields.io/twitter/follow/@zahidkhan007860?logo=twitter&style=for-the-badge" alt="@zahidkhan007860" /></a> </p>
 
 - 🌱 I’m **React Js Developer**
