@@ -1,13 +1,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zahidkhan262&label=Profile%20views&color=0e75b6&style=flat" alt="zahidkhan262" /> </p>
 <h1 align="center">Hi 👋, I am Zahid Khan</h1>
-<a href="https://portfolio-a4155.web.app/" align="center">know more about me</h1>
-<img align="center" src="https://wallpaper.dog/large/20512772.jpg" alt="wallpaper" width="100%" height="400px" />
+<a href="https://www.zahidkhan.online" align="center">know more about me</h1>
+<img width="1121" height="605" alt="image" src="https://github.com/user-attachments/assets/db3e2f36-c59a-4cef-95ee-23b94833c3c9" />
+
 <h3 align="center">I love🧡code and love my India ❤.</h3>
 
 
 <p align="left"> <a href="https://twitter.com/@zahidkhan007860" target="blank"><img src="https://img.shields.io/twitter/follow/@zahidkhan007860?logo=twitter&style=for-the-badge" alt="@zahidkhan007860" /></a> </p>
 
 - 🌱 I’m **React Js Developer**
+- 🌱 I’m **Next Js Developer**
 - 🌱 I’m **Node Js Developer**
 - 🌱 I’m **UI/UX Designer**
 
